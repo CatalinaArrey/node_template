@@ -8,6 +8,12 @@ Para levantar, debe primero instalar las dependencias:
 npm install
 ```
 
+Instalacion de dependencia koa
+~~~
+npm install koa
+~~~
+
+
 Y luego ejecutar:
 
 ```

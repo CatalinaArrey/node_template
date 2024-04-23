@@ -1,7 +1,7 @@
 {
   "name": "rest_api_basic",
   "version": "1.0.0",
-  "description": "",
+  "description": "Considere el código de base. Realize el `fork` de este repositorio en su cuenta `github`.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,8 +12,7 @@
   "author": "Francisco Cabezas",
   "license": "ISC",
   "dependencies": {
-    "koa": "^2.13.4",
-    "koa-body": "^4.2.0",
+    "koa-body": "^0.1.0",
     "koa-router": "^10.1.1"
   },
   "devDependencies": {
@@ -23,6 +22,7 @@
     "@babel/plugin-proposal-class-properties": "^7.16.7",
     "@babel/plugin-proposal-object-rest-spread": "^7.17.3",
     "@babel/preset-env": "^7.16.11",
+    "koa": "^2.15.3",
     "nodemon": "^2.0.15"
   }
 }
